@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101502911529",
+    "firebase_url": "https://new1-9d9c7.firebaseio.com",
+    "project_id": "new1-9d9c7",
+    "storage_bucket": "new1-9d9c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101502911529:android:2cd398046dba51cecd0838",
+        "android_client_info": {
+          "package_name": "com.dineout.code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101502911529-nrt1epkhi50bpnkn3nv1ss79ui9bivde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7MEj-cQR6LqnxU5WSLnqSa9XIa7Wbhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101502911529-nrt1epkhi50bpnkn3nv1ss79ui9bivde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
